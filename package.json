@@ -1,0 +1,19 @@
+{
+  "name": "forum",
+  "version": "0.0.1",
+  "description": "publish only",
+  "main": "index.js",
+  "scripts": {
+    "now-start": "NODE_ENV=production node build/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ukyiwin/forum.git"
+  },
+  "author": "nc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ukyiwin/forum/issues"
+  },
+  "homepage": "https://github.com/ukyiwin/forum#readme"
+}

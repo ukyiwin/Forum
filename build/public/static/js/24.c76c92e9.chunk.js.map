@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/24.c76c92e9.chunk.js","sources":["webpack:///./src/common/pages/Home/index.js"],"sourcesContent":["import React from 'react'\r\n\r\nexport default () => {\r\n    return <div>Home</div>\r\n}"],"mappings":"AAAA","sourceRoot":""}
